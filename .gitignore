@@ -10,3 +10,6 @@ node_modules
 *.mp3
 # ignora ficheros mp4
 *.mp4
+# los zip, los *.rar
+*.zip
+*.rar
